@@ -46,7 +46,7 @@ const menu = [
   {
     id: 5,
     title: 'egg attack',
-    category: 'lunch',
+    category: 'dinner',
     price: 22.99,
     img: `${Item5}`,
     desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
@@ -86,8 +86,8 @@ const menu = [
   {
     id: 10,
     title: 'chicken rice',
-    category: 'lunch',
-    price: 25.99,
+    category: 'dinner',
+    price: 35.99,
     img: `${Item10}`,
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
