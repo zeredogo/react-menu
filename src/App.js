@@ -29,6 +29,7 @@ function App() {
       <Categories categories={categories} filterItems={filterItems}/>
       <Menu items={menuItems}/>
     </section>
+    <p className="footer"><small>Dogo Empire &copy; 2022</small></p>
    </main>
   );
 }

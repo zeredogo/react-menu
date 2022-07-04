@@ -234,3 +234,11 @@ Menu
     height: 150px;
   }
 }
+
+.footer{
+  text-align: center;
+  border: none;
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
